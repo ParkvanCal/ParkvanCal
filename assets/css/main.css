@@ -1944,7 +1944,7 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: none;
+			background-image: url("images/bg.png");
 			background-color: #fff;
 		}
 
