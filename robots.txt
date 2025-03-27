@@ -1,5 +1,0 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/ 
-User-agent: * 
-Allow: / 
-Sitemap: https://parkvan-calibration.co.zw/sitemap.xml
