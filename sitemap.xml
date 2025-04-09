@@ -9,7 +9,18 @@
 
 <url>
   <loc>https://parkvan-calibration.co.zw/</loc>
-  <lastmod>2025-03-17T08:21:06+00:00</lastmod>
+  <lastmod>2025-04-03T14:42:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://parkvan-calibration.co.zw/about_upenyu.html</loc>
+  <lastmod>2025-04-03T14:42:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://parkvan-calibration.co.zw/index.html</loc>
+  <lastmod>2025-04-03T14:42:56+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
